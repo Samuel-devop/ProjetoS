@@ -14,3 +14,20 @@ main{
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
 }
+
+
+.skin-image {
+    display: block; 
+    margin-bottom: 10px; 
+}
+
+.seta {
+    display: block;
+    text-align: left; 
+    margin-top: 10px; 
+}
+
+.seta-img {
+    width: 50px;
+    height: auto;
+}
